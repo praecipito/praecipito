@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Caio!</h1>
+<h1 align="center">Hey there 🏳️‍🌈, I'm Caio!</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.troopl.com/praecipito](https://www.troopl.com/praecipito)
