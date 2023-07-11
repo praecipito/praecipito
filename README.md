@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **caioalvesfig@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/rhw9dE3vM](https://resume.io/r/rhw9dE3vM)
+- 📄 Know about my experiences [https://linkedin.com/in/praecipito](https://www.linkedin.com/in/praecipito)
 
 - ⚡ Fun fact **I enjoy wood working!**
 
