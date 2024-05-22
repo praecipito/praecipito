@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **caioalvesfig@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/praecipito](https://www.linkedin.com/in/praecipito)
-
 - ⚡ Fun fact **I enjoy wood working and ceramics!**
 
 <h3 align="left">Connect with me:</h3>
