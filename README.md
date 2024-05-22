@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Caio! 🏳️‍🌈</h1>
 <h3 align="center">A passionate back end developer from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.troopl.com/praecipito](https://www.troopl.com/praecipito)
-
 - 📫 How to reach me **caioalvesfig@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/praecipito](https://www.linkedin.com/in/praecipito)
