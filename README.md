@@ -1,9 +1,18 @@
 <h1 align="center">Hey there, I'm Caio! 🏳️‍🌈</h1>
-<h3 align="center">A passionate back end developer from Brazil</h3>
+<h3 align="center">A passionate back end developer from Brazil who loves solving problems with code</h3>
 
 - 📫 How to reach me **caioalvesfig@gmail.com**
 
-- ⚡ Fun fact **I enjoy wood working and handmaking ceramics!**
+### 🔧 I have experience with:
+- 🖥️ Programming Languages: Ruby, JavaScript, TypeScript
+- 🚀 Frameworks: Ruby on Rails, React, Angular
+- 🛠️ Tools & Technologies: Git, Docker, SQL, GraphQL
+- 💡 Currently learning: Machine Learning, AI
+
+### 🎨 Outside of coding:
+- I enjoy woodworking and making ceramics. 🛠️🎨
+- Always on the lookout for new tech trends and innovations. 🚀
+- I’m also a **horror movies** enthusiast. 🔪
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
