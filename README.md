@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **caioalvesfig@gmail.com**
 
-- ⚡ Fun fact **I enjoy wood working and ceramics!**
+- ⚡ Fun fact **I enjoy wood working and handmaking ceramics!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
